@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3c4b618-5f23-4fbe-ac77-8d8763b9b99e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/demo.java" afterPath="$PROJECT_DIR$/src/main/java/demo.java" />
-    </list>
+    <list default="true" id="c3c4b618-5f23-4fbe-ac77-8d8763b9b99e" name="Default" comment="" />
     <ignored path="helloworld.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -694,12 +692,12 @@
       <workItem from="1449717295426" duration="1339000" />
       <workItem from="1449799166247" duration="55000" />
       <workItem from="1450244321309" duration="4759000" />
-      <workItem from="1450342931337" duration="249000" />
+      <workItem from="1450342931337" duration="417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31085000" />
+    <option name="totallyTimeSpent" value="31253000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -712,7 +710,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
