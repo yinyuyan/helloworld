@@ -11,7 +11,8 @@ public class demo {
     public static void main(String... args){
        boolean b=false;
         Integer i=b==false?0:1;
-        System.out.println(i);
+        Long a=1L;
+        System.out.println(Long.toString(a));
 
 
     }

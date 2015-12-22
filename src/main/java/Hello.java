@@ -2,8 +2,9 @@
  * Created by Administrator on 2015/12/7.
  */
 public class Hello {
-    public void sayHello() {
-        System.out.println("Hello,World!");
+    String a="123";
+    public String sayHello() {
+        return "helloworld";
     }
 
     public static void main(String[] args) {
@@ -24,4 +25,5 @@ public class Hello {
         System.out.println("unicodeBytes is: " + unicodeBytes);
         return unicodeBytes;
     }
+
 }

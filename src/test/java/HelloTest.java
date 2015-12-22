@@ -15,6 +15,6 @@ public class HelloTest {
 
     @Test
     public void sayHello() {
-        System.out.println("Hello,World!");
+        System.out.println(new Hello().sayHello());
     }
 }
